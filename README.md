@@ -1,6 +1,6 @@
-# FileDownloader
+# Caso de uso: `FileDownloader`
 
-Este proyecto es un simulador de descarga de archivos en Java, que permite al usuario seleccionar varios archivos para descargar de forma secuencial.
+En el caso de uso se hizo simulador de descarga de archivos en Java, que permite al usuario seleccionar varios archivos para descargar de forma secuencial.
 
 ## Descripción
 
